@@ -1,3 +1,4 @@
+# pip install PyGithub
 from github import Github
 
 VERSION = "3.6.0"
